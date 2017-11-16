@@ -4,11 +4,11 @@ This folder contains material for a full-day workshop introducing Phylogenetic G
 
 ### Workshop material
 
-[Phylogenies and Statistics](http://github.com/simjoly/QCBSworkshop2017/PGLS_presentation.pdf) | pdf presentation
+[Phylogenies and Statistics](https://github.com/simjoly/QCBSworkshop2017/blob/master/PGLS_presentation.pdf) | pdf presentation
 
-[R tutorial](http://htmlpreview.github.com/?http://github.com/simjoly/QCBSworkshop2017/StatsPhylo.html) | Tutorial with examples in R
+[R tutorial](http://htmlpreview.github.com/?http://github.com/simjoly/QCBSworkshop2017/blob/master/StatsPhylo.html) | Tutorial with examples in R
 
-[Data](http://github.com/simjoly/QCBSworkshop2017/data) | Files you will need to perform the examples in the tutorial
+[Data](http://github.com/simjoly/QCBSworkshop2017/blob/master/data) | Files you will need to perform the examples in the tutorial
 
 
 ## Other useful information
