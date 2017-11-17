@@ -43,8 +43,8 @@ If some of these are not yet installed on your computer, you will have to instal
 install.packages('nlme')
 install.packages('ape')
 install.packages('RColorBrewer')
-install.packages(ggplot2)
-install.packages(MCMCglmm)
+install.packages('ggplot2')
+install.packages('MCMCglmm')
 ```
 
 Also note that if you are using both the packages `nlme` and `ape`, `nlme` should be loaded first. If you don't do this, you might get errors; you could then restart R and start over.
