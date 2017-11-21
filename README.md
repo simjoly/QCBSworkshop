@@ -10,6 +10,8 @@ This folder contains material for a full-day workshop introducing Phylogenetic G
 
 [Data](http://github.com/simjoly/QCBSworkshop2017/blob/master/data) | Files you will need to perform the examples in the tutorial
 
+[Solutions to the challenges in the tutorial](http://htmlpreview.github.com/?http://github.com/simjoly/QCBSworkshop2017/blob/master/StatsPhylo.html) | Tutorial in R with solutions to the challenges
+
 
 ## Other useful information
 
