@@ -56,9 +56,9 @@ I first introduce comparative methods more generally before introducing Phylogen
 
 ## Working with github
 
-All the data of the workshop are deposited in a github repository. The easiest way to access them is to go to the workshop directory and clone it on your computer. [Workshop repository](http://www.github.com/simjoly/QCBSworkshop2017).
+All the data of the workshop are deposited in a github repository. The easiest way to access them is to go to the workshop directory and clone it on your computer. [Workshop repository](http://www.github.com/simjoly/QCBSworkshop).
 
-Once you have cloned the repository, you need to open R (R studio) and set the working directory to the repository folder ("/QCBSworkshop2017"). In RStudio, to change the working directory, you choose `>Session>Set Working directory>Choose Directory`.You are now ready to do the exercises.
+Once you have cloned the repository, you need to open R (R studio) and set the working directory to the repository folder ("/QCBSworkshop"). In RStudio, to change the working directory, you choose `>Session>Set Working directory>Choose Directory`.You are now ready to do the exercises.
 
 
 # An introduction to Phylogenetic Comparative Methods
