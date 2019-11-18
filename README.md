@@ -13,9 +13,9 @@ This folder contains material for a full-day workshop introducing Phylogenetic G
 [Solutions to the challenges in the tutorial](http://htmlpreview.github.com/?http://github.com/simjoly/QCBSworkshop2017/blob/master/StatsPhylo.html) | Tutorial in R with solutions to the challenges
 
 
-### Workshop material - Diversaification rates
+### Workshop material - Diversification rates
 
-[Presentation on diversification](http://htmlpreview.github.com/?https://github.com/simjoly/CourseComparativeMethods/blob/master/lecture7/Slides_Lecture7.html) | html presentation
+[Presentation on diversification](https://github.com/simjoly/CourseComparativeMethods/blob/master/lecture7/Slides_Lecture7.html) | html presentation
 
 [R tutorial](http://htmlpreview.github.com/?https://github.com/simjoly/CourseComparativeMethods/blob/master/lecture7/Diversification.html) | Tutorial with examples in R
 
