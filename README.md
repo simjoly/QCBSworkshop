@@ -1,8 +1,10 @@
-# Workshop on Phylogenies and Statistics
+# Workshop on Phylogenetic Comparative Methods
 
-This folder contains material for a full-day workshop introducing Phylogenetic Generalized Least Squares (PGLS) and Phylogenetic Mixed Models and teaching how to implement them in the R language.
+This folder contains material for a full-day workshop introducing Phylogenetic Generalized Least Squares (PGLS), Phylogenetic Mixed Models, the estimation of diversification rates, and teaching how to implement them in the R language.
 
-### Workshop material - PGLS
+## Workshop material
+
+### PGLS
 
 [Phylogenies and Statistics](https://github.com/simjoly/QCBSworkshop2017/blob/master/PGLS_presentation.pdf) | pdf presentation
 
@@ -13,7 +15,7 @@ This folder contains material for a full-day workshop introducing Phylogenetic G
 [Solutions to the challenges in the tutorial](http://htmlpreview.github.com/?http://github.com/simjoly/QCBSworkshop2017/blob/master/StatsPhylo.html) | Tutorial in R with solutions to the challenges
 
 
-### Workshop material - Diversification rates
+### Diversification rates
 
 [Presentation on diversification](https://github.com/simjoly/CourseComparativeMethods/blob/master/lecture7/Slides_Lecture7.html) | html presentation
 
